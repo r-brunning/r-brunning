@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you'll find some of my work and projects.
 ## A few projects
 
 - **[Phonebook Full Stack App](https://github.com/r-brunning/UoH-Fullstack-Open-3.10-Phonebook-Backend)**  
-  A full-stack app with a Node.js backend and React frontend. The backend provides a REST API and serves the production React build. Uses Node.js, Express.js, React, Axios, Morgan, and handles CORS.
+  A full-stack app with a Node.js backend and React frontend. The backend provides a REST API and serves the production React build. Uses Node.js, Express.js, React, Axios, MongoDB, Morgan, and handles CORS.
 
 - **[Refactoring Kata](https://github.com/r-brunning/gilded-rose)**  
   Solution to the Gilded Rose kata, focused on refactoring and coding standards. Built with TypeScript and tested using Jest.
